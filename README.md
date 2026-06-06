@@ -21,8 +21,6 @@ I'm an **Software Engineer & Data Scientist** specializing in building productio
 - 🤖 **AI Agents & GenAI** LangChain-powered agents that translate ML outputs into natural language for business stakeholders
 - 🌐 **Full-Stack ML Deployment** from edge inference to FastAPI + React + Docker production pipelines
 
-Currently completing my **B.Sc. in Computer Science (AI)** at Misr University for Science and Technology (GPA 3.43 / 4.0), graduating 2026.
-
 ---
 
 ## Featured projects
