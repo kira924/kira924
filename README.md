@@ -16,10 +16,10 @@
 
 I'm an **Applied AI Engineer & Data Scientist** specializing in building production-grade ML systems that are not just accurate — but *explainable* and *deployable*. My focus is on:
 
-- 🔬 **Time Series & Predictive Maintenance** — deep learning models on industrial sensor data (NASA C-MAPSS, RMSE: 14.38 cycles)
-- 🧠 **Explainable AI (XAI)** — integrating SHAP in real time so non-technical teams understand *why* a model flagged a failure
-- 🤖 **AI Agents & GenAI** — LangChain-powered agents that translate ML outputs into natural language for business stakeholders
-- 🌐 **Full-Stack ML Deployment** — from edge inference to FastAPI + React + Docker production pipelines
+- 🔬 **Time Series & Predictive Maintenance** deep learning models on industrial sensor data (NASA C-MAPSS, RMSE: 14.38 cycles)
+- 🧠 **Explainable AI (XAI)** integrating SHAP in real time so non-technical teams understand *why* a model flagged a failure
+- 🤖 **AI Agents & GenAI** LangChain-powered agents that translate ML outputs into natural language for business stakeholders
+- 🌐 **Full-Stack ML Deployment** from edge inference to FastAPI + React + Docker production pipelines
 
 Currently completing my **B.Sc. in Computer Science (AI)** at Misr University for Science and Technology (GPA 3.43 / 4.0), graduating 2026.
 
