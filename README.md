@@ -105,17 +105,6 @@ End-to-end forecasting and inventory management system for automotive dealership
 
 ---
 
-## GitHub stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kira924&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" alt="Khalid's GitHub stats" />
-&nbsp;&nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kira924&layout=compact&theme=default&hide_border=true&langs_count=8" alt="Top languages" />
-
-</div>
-
----
 
 ## Certifications
 
